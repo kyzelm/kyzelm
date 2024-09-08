@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">Hi! 🙋‍♂️</h1>
 
-I'm a **Frontend Developer** studying at Kielce University of Technology. Even though my main interest is frontend, I always focus on general personal development and gaining as much experience as possible, so my skills also include backend technologies and UI design.
+I'm a **frontend developer** studying at the Kielce University of Technology. Although my main interest is frontend, I always focus on general personal development and gaining as much experience as possible, so my skills also include backend technologies and UI design.
 
 <h2 style="text-align:center;">💻 Tech Stack:</h2>
 
